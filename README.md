@@ -1,5 +1,6 @@
 # Tietorakenteet ja algoritmit, Helsingin yliopisto
 
+- [kevät 2025](/kevat-2025)
 - [syksy 2024](/syksy-2024)
 - [kevät 2024](/kevat-2024)
 - [syksy 2023](/syksy-2023)
